@@ -4,6 +4,8 @@ Exploratory Data Analysis of Netflix Movies and TV Shows Dataset
 
 This project performs Exploratory Data Analysis (EDA) on the Netflix Movies & TV Shows dataset.
 
+https://colab.research.google.com/drive/1-xTfmSpOG5zuqu06maEURjOEt3EHSTgy?usp=sharing
+
 ## Objectives
 
 * Clean and preprocess the dataset
